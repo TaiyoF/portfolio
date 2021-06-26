@@ -1,5 +1,5 @@
 # portfolio
-fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068)を参考にメモを記載しています。</br>
+fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068) を参考にメモを記載しています。</br>
 学習・取り組み途中からの記載になりますが、ご了承ください。
 
 # 学習環境
