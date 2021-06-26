@@ -43,7 +43,7 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
 - 実行したこと一覧
   - Decidision tree
   - Random forest 
-  - lightGBM
+  - lightGBM (weight_columnの重み付けを調べる）
   - k-NN
   - stome
   - optuna
