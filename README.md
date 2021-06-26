@@ -34,6 +34,8 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
   - k-NN(k近傍法)を初めて試す。 学習用データをtrain:test=8:2に分割し、それぞれのaccuracyの差が低いkで検証をする。
   - k=26 の場合、score = 0.6522132
   - k=6 の場合、score = 0.6331277 #  testのaccuracyがk=6以降一定だったので試しにsubmit
+  - weighted kNNという方法があるようだ。距離で重みをつけるそう。knn = KNeighborsClassifier(n_neighbors=k, weights="distance") (https://qiita.com/fujin/items/128ed7188f7e7df74f2c)</br>
+    →score = 0.6290278 (k=4,weighted)うーん。。
 
 ### 2021/6/27
 - Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
