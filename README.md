@@ -16,7 +16,7 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
 
 - Udemy
   - 【ゼロから始めるデータ分析】ビジネスケースで学ぶPythonデータサイエンス入門（1週目完了）
-  - 米国AI開発者がゼロから教えるPython入門講座（進めているところ）
+  - 米国AI開発者がゼロから教えるPython入門講座（学習中）
 
 - Slack
   - DataScienceHub参加中
