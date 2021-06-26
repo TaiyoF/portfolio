@@ -39,7 +39,7 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
 - Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
   - Google colab でstome+lightgbm+optunaを実行してみる。データの上げ方、保存方法を調べる。 # ローカルのmacでの実行時にスタックしてしまうため
 
-# Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
+### Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
 - 実行したこと一覧
   - Decidision tree
   - Random forest 
