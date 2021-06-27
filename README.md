@@ -39,7 +39,10 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
 
 ### 2021/6/27
 - Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
-  - Google colab でstome+lightgbm+optunaを実行してみる。データの上げ方、保存方法を調べる。 # ローカルのmacでの実行時にスタックしてしまうため
+  - Google colab でstome+lightgbm+optunaを実行してみる。データの上げ方、保存方法を調べる。 # ローカルのmacでの実行時にスタックしてしまうため</br>
+  → colab proへ課金、途中で止まってしまう。
+  - 米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座を購入、勉強スタート</br>
+  → セクション１〜
 
 ### Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
 - 実行したこと一覧
