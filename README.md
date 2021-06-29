@@ -134,6 +134,173 @@ def func(a):
 ### 2021/6/28
 - Udemy続きをやる。Numpyまで完了したいな。
 
+### 2021/6/29
+
+np.arange(1, 14, 2) 　1から14までstep2毎に作成
+np.linspace(0, 10, 5)　0から10まで5分割
+np.logspace(1, 3, 10)  10^1から10^3まで累乗を10分割
+endpoint=False
+
+shape = (3, 4)
+np.zeros(shape)
+```
+array([[0., 0., 0., 0.],
+       [0., 0., 0., 0.],
+       [0., 0., 0., 0.]])
+```
+
+np.ones(shape)
+```
+array([[1., 1., 1., 1.],
+       [1., 1., 1., 1.],
+       [1., 1., 1., 1.]])
+```
+
+np.ones(shape)*4
+```
+array([[4., 4., 4., 4.],
+       [4., 4., 4., 4.],
+       [4., 4., 4., 4.]])
+```
+
+np.eye(N) NxNの単位行列（＝対角成分が全て1の正方行列）
+np.eye(4)
+```
+array([[1., 0., 0., 0.],
+       [0., 1., 0., 0.],
+       [0., 0., 1., 0.],
+       [0., 0., 0., 1.]])
+```
+
+np.random.rand(3, 4)
+```
+array([[0.15656226, 0.79985558, 0.56118588, 0.51009648],
+       [0.29570839, 0.17338572, 0.51951136, 0.57760841],
+       [0.56179751, 0.15546385, 0.55312507, 0.67605953]])
+```
+
+np.random.seed(1) #seedを指定すると毎回同じ乱数を生成してくれる
+np.random.rand(3,5)
+
+
+np.random.randn(3, 4) #標準正規分布からランダム値を生成
+```
+array([[ 0.57014127, -1.59014501, -0.06352438, -2.4417338 ],
+       [-1.79591943, -1.02477173,  0.44430432,  0.04789425],
+       [-0.33765127, -0.70014765, -1.14533806,  0.63219177]])
+```
+
+np.random.normal() #任意の平均と標準偏差を指定し、正規分布から乱数を生成
+
+np.random.randint(1, 100000)　#指定した範囲でランダムに。
+np.random.choice() #1次元のデータからランダムに生成
+
+.max() #最大値を返す
+.min() #最小値を返す
+.argmax() #最大値のindexを返す
+.argmin() #最小値のindexを返す
+.mean() #平均を返す
+np.median(行列) #中央値を返す
+
+import time
+time.time() #計算時間を出す　sec
+
+np.sqrt() #平方根
+np.log() #log
+np.exp() #指数関数
+np.sum() #合計
+np.sum(X, axis=1) #行列で合計も可能
+np.abs() #絶対値
+
+# NaN : Not a number
+type(np.nan)
+np.isnan(np.log(-100))
+
+```
+array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+```
+np.clip(array2, 3,7)
+```
+array([3, 3, 3, 3, 4, 5, 6, 7, 7, 7])
+```
+
+np.where(array2 > 3, 3, 0)
+```
+array([0, 0, 0, 0, 3, 3, 3, 3, 3, 3])
+```
+
+result, = np.where(array2 > 3)
+result
+
+np.unique(array2)
+np.unique(array2, return_counts=True)
+np.bincount(array2)
+
+np.concatenate([ndarray_even, ndarray_odd], axis=1)
+np.stack([ndarray_even, ndarray_odd], axis=-1)
+np.transpose(ndarray) #画像の変更で利用
+
+np.save("sample_ndarray.npy", ndarray)
+np.load("sample_ndarray.npy")
+
+np.save("sample_dict.npy", dictionary)
+np.load("sample_dict.npy", allow_pickle=True)[()]
+
+data = {
+    "Name": "John",
+    "Sex":"male",
+    "Age":22
+}
+pd.Series(data)
+```
+Name    John
+Sex     male
+Age       22
+dtype: object
+```
+
+array = pd.array(["John", "male", 42])
+john_series = pd.Series(array, index=["Name", "Sex", "Age"])
+john_series["Name"]
+```
+'John'
+```
+
+age_series = pd.Series(array)
+age_series.values
+```
+array(['John', 'male', '42'], dtype=object)
+```
+
+data = {
+    "Name": ["John", "Zack", "Emily"],
+    "Sex": ["male", "male", "female"],
+    "Age": [22, 30, 32]
+}
+df = pd.DataFrame(data)
+
+df[df["Age"] >= 30]
+
+len(df)
+df.describe()
+df.columns
+df[["revenue", "original_title"]]
+df.iloc[10] #iloc[index] 特定の行のSeriesを取得
+df.loc["c"]#index=c行を取得
+df.drop("id", axis=1)
+df.drop("id", axis=1, inplace=True) #dfが更新される、同じメモリーを使いませる　df = df.drop()でもOK
+
+df[df["original_language"] == "ja"]
+df[(df["original_language"] == "ja") & (df["vote_average"] >8)] # and
+df[(df["original_language"] == "ja") | (df["vote_average"] >8)] # or
+
+df[(df["budget"] == 0) | (df["revenue"] ==0)]
+df[~((df["budget"] == 0) | (df["revenue"] ==0))] #上の余集合
+
+### 2021/6/30
+6/28を追記、29を整形
+かめさんのデータサイエンス講座を38~開始　目標matplotlibまで。
+
 ### Signate 【第11回_Beginner限定コンペ】医療保険の費用帯予測
 - 実行したこと一覧
   - Decidision tree
