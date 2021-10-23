@@ -10,12 +10,12 @@ fkubotaさんのkaggle日記という戦い方(https://zenn.dev/fkubota/articles
   - 外部モニター LG製 34WL750-B
   - Jupyter/Docker/Google colab
 
-- 書籍
+- 進めた書籍
   - PythonではじめるKaggleスタートブック
   - Python 1年生
   - Python 2年生 スクレイピングのしくみ 
 
-- Udemy
+- 進めたUdemy
   - 【ゼロから始めるデータ分析】ビジネスケースで学ぶPythonデータサイエンス入門（1週目完了）
   - 米国AI開発者がゼロから教えるPython入門講座（学習中）
   - 米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座（学習中）
