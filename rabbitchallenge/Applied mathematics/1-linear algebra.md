@@ -88,3 +88,10 @@ Tは転置のこと。
 行列の四則演算は問題ないので、演習問題にある固有ベクトル問題について解法をまとめた。
 
 # 問7.2
+行列![gif latex-18](https://user-images.githubusercontent.com/85814165/138553391-c1606448-4bdf-4fe9-a0f6-8a93ffa72c3a.gif)の固有ベクトルを求めたところ、![gif latex-19](https://user-images.githubusercontent.com/85814165/138553414-242ff9a5-5fc9-455a-9965-1db3f3f27513.gif)の定数倍であることがわかった。この固有ベクトルに対する固有値を求めよ。
+
+![gif latex-12](https://user-images.githubusercontent.com/85814165/138553459-8c7cdc04-8556-4689-b28a-e39ed0fe8b2e.gif)
+
+上記の計算により、固有値λ=5の時、設問の固有ベクトルになるため、求める固有値λ=5であることがわかる。
+
+
