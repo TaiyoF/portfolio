@@ -64,4 +64,23 @@
 
 ![gif latex-10](https://user-images.githubusercontent.com/85814165/138549299-661c756c-de7f-43be-a5ef-12696728c478.gif)
 
-## 固
+例）
+
+![gif latex-12](https://user-images.githubusercontent.com/85814165/138552768-2a263ac5-c804-4eaf-b0d7-fabd1e20e24f.gif)
+
+## 固有値分解
+n行n列の正方行列Aにおいて、固有値λ1,λ2,,λn及び固有ベクトル![gif latex-13](https://user-images.githubusercontent.com/85814165/138552843-17b9fc94-35a8-45fe-8209-18d392e185f8.gif)1,![gif latex-13](https://user-images.githubusercontent.com/85814165/138552843-17b9fc94-35a8-45fe-8209-18d392e185f8.gif)2,,![gif latex-13](https://user-images.githubusercontent.com/85814165/138552843-17b9fc94-35a8-45fe-8209-18d392e185f8.gif)nを持つ場合、この固有値を対角線上に並べた行列Λとそれに対応する固有ベクトルを並べた行列Vの関係は以下式。
+
+![gif latex-14](https://user-images.githubusercontent.com/85814165/138552940-32d9bf68-5ee6-44fa-8b62-e0ae2006c596.gif)
+
+解き方は、固有値を求め→固有ベクトルを求め→固有値がA→固有ベクトルをVに設定する。
+最後に、![gif latex-15](https://user-images.githubusercontent.com/85814165/138553007-06cde37d-af29-4c1a-938d-aff15d0b64ce.gif)を逆行列の解き方により求める。
+
+## 特異値分解
+n行n列の正方行列ではない行列（長方形の行列）においても、固有値分解が可能＝特異値分解
+
+![gif latex-16](https://user-images.githubusercontent.com/85814165/138553214-029c44e8-b356-455b-9780-ee8c5c26a037.gif)
+
+![gif latex-17](https://user-images.githubusercontent.com/85814165/138553225-26f1f064-05bb-4ae0-8992-0e30607e2f3d.gif)を固有値分解すると、左特異ベクトルちと特異値の2乗が求められる。
+Tは転置のこと。
+
