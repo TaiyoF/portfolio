@@ -47,6 +47,21 @@
 ベクトルの方向が同一の場合もしくは1つの行列が0の場合、逆行列が存在しない。
 
 ## 行列式の求め方
+正方行列（n×nの行列）には、ある一つの数値が対応する。＝正方行列の大きさみたいなもの。
 
+2×2行列の場合
+![gif latex-8](https://user-images.githubusercontent.com/85814165/138549163-d2cd86cd-de88-4289-abff-78e6cf9d2112.gif)
 
+3×3行列の場合
 
+![gif latex-9](https://user-images.githubusercontent.com/85814165/138549255-6978a867-388b-4482-aee9-49448e015624.gif)
+
+## 固有値と固有ベクトル
+ある行列Aと特殊なベクトル![gif latex-11](https://user-images.githubusercontent.com/85814165/138549328-998a64e5-3214-4ecc-857e-af2f8065983a.gif)の積は、スカラーであるλと特殊なベクトル![gif latex-11](https://user-images.githubusercontent.com/85814165/138549342-bd5b3185-0161-4126-afe3-751df9a15516.gif)の積とイコールになる。
+
+- λが固有値
+- 特殊なベクトル![gif latex-11](https://user-images.githubusercontent.com/85814165/138549377-72fdad4f-372f-4de1-81ee-3e4f5e84f841.gif)が固有ベクトル
+
+![gif latex-10](https://user-images.githubusercontent.com/85814165/138549299-661c756c-de7f-43be-a5ef-12696728c478.gif)
+
+## 固
