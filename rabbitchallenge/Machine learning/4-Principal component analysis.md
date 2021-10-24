@@ -36,3 +36,7 @@
 累積寄与率(rk)=第1から第kまでの主成分の分散(λjの合計)/主成分の総分散(λiの合計)
 
 ## Google Colabでの実装
+
+![スクリーンショット 2021-10-25 7 30 09](https://user-images.githubusercontent.com/85814165/138615539-18d4ac9f-983b-4ea8-8a56-71c30001f378.png)
+![スクリーンショット 2021-10-25 7 30 33](https://user-images.githubusercontent.com/85814165/138615542-237056e6-f451-445d-9986-9f09af2e7836.png)
+![スクリーンショット 2021-10-25 7 30 45](https://user-images.githubusercontent.com/85814165/138615545-950cf8bc-d98e-4b85-a739-8e25cb2633f5.png)
