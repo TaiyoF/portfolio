@@ -20,6 +20,11 @@ k-means++を使うと良い。
 
 kの値を変えるとクラスタリング結果も変わる。kの値でクラスタリングするように試みるため。
 
+## kNNの練習
+
+![スクリーンショット 2021-10-25 21 24 26](https://user-images.githubusercontent.com/85814165/138694508-cd6c7f00-d58e-431e-aad2-bd0398037690.png)
+![スクリーンショット 2021-10-25 21 24 39](https://user-images.githubusercontent.com/85814165/138694523-930af28b-7860-4040-9076-e27e800253d9.png)
+
 ## k-meansをWine学習にて活用する
 
 ![スクリーンショット 2021-10-25 21 00 33](https://user-images.githubusercontent.com/85814165/138691384-a9f594ba-f582-4535-bdbb-9306fe294b8c.png)
