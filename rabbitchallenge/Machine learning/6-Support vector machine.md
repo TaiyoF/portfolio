@@ -48,9 +48,29 @@ Cが大きいほどハードマージンに近づく。Cが小さいとより誤
 
 ![gif latex-69](https://user-images.githubusercontent.com/85814165/138878425-f876a8a0-d86b-4e07-8816-ab0b61e838ad.gif)
 
-xは元の特徴ベクトルを表す
+xは元の特徴ベクトルを表す。
 ![gif latex-70](https://user-images.githubusercontent.com/85814165/138878711-4069202f-313c-4057-a7db-92efb717b60e.gif)
 
+xから高次元データへ写像する関数を上記のφ(x)とする。
+
+カーネル関数という関数で、難解な最適化問題を置き換えることが可能。
+
+![gif latex-71](https://user-images.githubusercontent.com/85814165/138879703-10fffff6-32f4-4c41-9f79-5ff31c604c29.gif)
+
+このカーネル関数（内積なのでスカラー）を用いることで、2つのφ(x)を直接計算することなく内積を見積もることが可能になる。
+
+![gif latex-72](https://user-images.githubusercontent.com/85814165/138880054-f3b412ff-5eba-4526-ba66-e0e319d570c1.gif)
+
+多項式カーネル
+![gif latex-73](https://user-images.githubusercontent.com/85814165/138880285-88984926-6d4e-46af-82c6-44039dc3a23a.gif)
+
+ガウスカーネル
+![gif latex-74](https://user-images.githubusercontent.com/85814165/138880349-6462eff4-5191-4436-abb3-35585fe0ef38.gif)
+
+シグモイドカーネル
+![gif latex-75](https://user-images.githubusercontent.com/85814165/138880593-27658ee9-6983-49db-bb0d-e4b4f49802b6.gif)
+
+c,d,γはハイパーパラメータで事前に決める必要がある。
 
 ## 実装演習
 np_svm.ipynbを参考にコーディングする
