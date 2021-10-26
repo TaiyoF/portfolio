@@ -62,12 +62,15 @@ xから高次元データへ写像する関数を上記のφ(x)とする。
 ![gif latex-72](https://user-images.githubusercontent.com/85814165/138880054-f3b412ff-5eba-4526-ba66-e0e319d570c1.gif)
 
 多項式カーネル
+
 ![gif latex-73](https://user-images.githubusercontent.com/85814165/138880285-88984926-6d4e-46af-82c6-44039dc3a23a.gif)
 
 ガウスカーネル
+
 ![gif latex-74](https://user-images.githubusercontent.com/85814165/138880349-6462eff4-5191-4436-abb3-35585fe0ef38.gif)
 
 シグモイドカーネル
+
 ![gif latex-75](https://user-images.githubusercontent.com/85814165/138880593-27658ee9-6983-49db-bb0d-e4b4f49802b6.gif)
 
 c,d,γはハイパーパラメータで事前に決める必要がある。
