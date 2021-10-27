@@ -78,3 +78,10 @@ c,d,γはハイパーパラメータで事前に決める必要がある。
 ## 実装演習
 np_svm.ipynbを参考にコーディングする
 
+![スクリーンショット 2021-10-27 21 03 17](https://user-images.githubusercontent.com/85814165/139062097-306f7726-3435-4b28-944d-a46daebc6809.png)
+![スクリーンショット 2021-10-27 21 03 31](https://user-images.githubusercontent.com/85814165/139062108-6634e8c8-5624-4909-a1cb-50265b7e7e72.png)
+![スクリーンショット 2021-10-27 21 03 45](https://user-images.githubusercontent.com/85814165/139062114-4a878911-9587-483a-aeb9-77346ecdaab0.png)
+![スクリーンショット 2021-10-27 21 03 54](https://user-images.githubusercontent.com/85814165/139062123-e0b6ec6d-3403-4e51-ae47-fd016697fdac.png)
+![スクリーンショット 2021-10-27 21 04 04](https://user-images.githubusercontent.com/85814165/139062127-ee1b6f37-d3bb-4513-8bcf-e63a74ecb5a7.png)
+![スクリーンショット 2021-10-27 21 04 12](https://user-images.githubusercontent.com/85814165/139062134-0e58b0b8-7f06-444d-bdfa-c1901d598176.png)
+![スクリーンショット 2021-10-27 21 04 23](https://user-images.githubusercontent.com/85814165/139062151-489ea5e1-b7df-4fac-b58d-2bbd30b37e90.png)
