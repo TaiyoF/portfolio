@@ -83,5 +83,6 @@ np_svm.ipynbを参考にコーディングする
 ![スクリーンショット 2021-10-27 21 03 45](https://user-images.githubusercontent.com/85814165/139062114-4a878911-9587-483a-aeb9-77346ecdaab0.png)
 ![スクリーンショット 2021-10-27 21 03 54](https://user-images.githubusercontent.com/85814165/139062123-e0b6ec6d-3403-4e51-ae47-fd016697fdac.png)
 ![スクリーンショット 2021-10-27 21 04 04](https://user-images.githubusercontent.com/85814165/139062127-ee1b6f37-d3bb-4513-8bcf-e63a74ecb5a7.png)
-![スクリーンショット 2021-10-27 21 04 12](https://user-images.githubusercontent.com/85814165/139062134-0e58b0b8-7f06-444d-bdfa-c1901d598176.png)
-![スクリーンショット 2021-10-27 21 04 23](https://user-images.githubusercontent.com/85814165/139062151-489ea5e1-b7df-4fac-b58d-2bbd30b37e90.png)
+![スクリーンショット 2021-10-27 21 07 04](https://user-images.githubusercontent.com/85814165/139062468-7bc2fbd1-b4da-4611-9789-bc674544b143.png)
+![スクリーンショット 2021-10-27 21 06 22](https://user-images.githubusercontent.com/85814165/139062383-71e205ff-48c9-46a0-a2d4-36b5053f9dfa.png)
+
