@@ -69,6 +69,17 @@ p(x|Ck) p(Ck)を推定
 ・ランダムフォレスト
 ・NN
 
+## 4つ以上の中間層を持つものを深層学習という。
+- 自動売買（トレード）
+- チャットボット
+- 翻訳
+- 音声解釈
+- 囲碁・将棋AI
+
+# 入力層〜中間層
+ノードの重要性に応じて、重みwの値を変化させて中間層に出力する。
+
+![gif latex-76](https://user-images.githubusercontent.com/85814165/139436436-939918bb-0088-4572-82ee-f8067f2bda48.gif)
 
 
 
@@ -89,12 +100,19 @@ Q.次のネットワークを書け
 
 <img width="828" alt="スクリーンショット 2021-10-29 21 17 10" src="https://user-images.githubusercontent.com/85814165/139432868-8d1f6155-0749-42a1-bb4f-524968bab2a7.png">
 
-
 Q.図式に動物分類の実例を入れてみよう
+
+<img width="675" alt="スクリーンショット 2021-10-29 21 54 22" src="https://user-images.githubusercontent.com/85814165/139438176-95a9e67a-ada2-4fca-a3fd-6ecb98cf0e70.png">
 
 Q.数式をPythonで書け
 
+![スクリーンショット 2021-10-29 21 58 05](https://user-images.githubusercontent.com/85814165/139438750-01c94b9e-c73b-4055-bfe5-65576c170637.png)
+
 Q.1-1のファイルから中間層の出力を定義しているソースを抜き出せ
+
+![スクリーンショット 2021-10-29 21 59 30](https://user-images.githubusercontent.com/85814165/139439245-a17c8a1d-fa9a-4487-825a-5bd613e01876.png)
+
+
 
 Q.線形と非線形の違いを図にかいて簡易に説明せよ
 
