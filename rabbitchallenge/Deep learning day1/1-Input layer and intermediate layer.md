@@ -110,7 +110,7 @@ Q.数式をPythonで書け
 
 Q.1-1のファイルから中間層の出力を定義しているソースを抜き出せ
 
-![スクリーンショット 2021-10-29 21 59 30](https://user-images.githubusercontent.com/85814165/139439245-a17c8a1d-fa9a-4487-825a-5bd613e01876.png)
+![スクリーンショット 2021-10-29 22 01 34](https://user-images.githubusercontent.com/85814165/139439358-51e9660e-f15d-4654-81c5-13890dee8dd5.png)
 
 
 
