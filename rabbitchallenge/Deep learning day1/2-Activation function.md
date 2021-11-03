@@ -35,8 +35,9 @@ Q.配布されたソースコードより該当する箇所を抜き出せ
 ![スクリーンショット 2021-11-01 8 31 46](https://user-images.githubusercontent.com/85814165/139604885-7a1ff4cc-86d8-48d4-810a-8c2a616078af.png)
 
 # 実装
-1_1_forward_propagation_after.ipynbより後半部分
+1_1_forward_propagation_after.ipynbより
 
 ![スクリーンショット 2021-11-03 20 38 21](https://user-images.githubusercontent.com/85814165/140053681-d0f27d3b-6d6c-4d44-a914-1c246536ff61.png)
 ![スクリーンショット 2021-11-03 20 38 32](https://user-images.githubusercontent.com/85814165/140053697-9fbdbdc7-1fa2-4247-b576-94086cec1d8d.png)
-![スクリーンショット 2021-11-03 20 38 41](https://user-images.githubusercontent.com/85814165/140053746-f846b669-ca6d-40bc-9cc8-9c147be44a44.png)
+
+
