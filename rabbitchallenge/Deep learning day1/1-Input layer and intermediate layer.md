@@ -130,4 +130,9 @@ Q.1-1のファイルから中間層の出力を定義しているソースを抜
 - 数値の正規化・正則化
 
 
+# 実装
+1_1_forward_propagation_after.ipynbより
+
+![スクリーンショット 2021-11-03 20 23 57](https://user-images.githubusercontent.com/85814165/140052043-6f003d62-8279-475f-a3dd-2ec9c079745f.png)
+![スクリーンショット 2021-11-03 20 24 07](https://user-images.githubusercontent.com/85814165/140052061-2dd9a783-4971-4b05-93f6-27050e760b19.png)
 
