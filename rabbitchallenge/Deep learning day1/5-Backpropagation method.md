@@ -59,5 +59,9 @@ Q.２つの空欄に該当するソースコードを探せ
 ![スクリーンショット 2021-11-02 5 46 33](https://user-images.githubusercontent.com/85814165/139739844-0c8bcdd9-d3bf-4756-8bac-ecb9af96f2de.png)
 
 
-# 修了課題
+# 実装
+1_3_stochastic_gradient_descent.ipynbより
+
+![スクリーンショット 2021-11-03 21 45 19](https://user-images.githubusercontent.com/85814165/140062391-939b2395-c1a1-4173-84cc-3558a67687fb.png)
+![スクリーンショット 2021-11-03 21 45 37](https://user-images.githubusercontent.com/85814165/140062401-6517bd48-0455-46cf-8d48-d843001be486.png)
 
