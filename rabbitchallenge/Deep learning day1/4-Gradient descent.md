@@ -71,6 +71,7 @@ Q.この数式の意味を図に書いて説明せよ（勾配降下法の式）
 １回目の学習ｔでWtを算出、２回目の学習t+1で間違った部分を修正したwt+1、３回目の学習t+2でさらに間違った部分を修正したのをwt+2とし、ｎ回までそれを繰り返していく。
 
 # 実装
+1_2_back_propagation.ipynbより
 
 ![スクリーンショット 2021-11-03 21 26 23](https://user-images.githubusercontent.com/85814165/140059733-ab13076b-2db5-4269-a6a8-4c84830859c9.png)
 ![スクリーンショット 2021-11-03 21 26 39](https://user-images.githubusercontent.com/85814165/140059757-8fe11a4c-12b7-4ae5-8eb9-2a6e8b2ab012.png)
