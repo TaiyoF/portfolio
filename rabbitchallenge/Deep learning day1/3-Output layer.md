@@ -76,3 +76,8 @@ A.
 
 yとdをかけ合わせ、全て足し合わせる。yは0,1が並んだもので正解が1。dはNNが出力した正解だろうと予測した場所。
 対数関数は0の時-∞になるので、0にならないように1e-7を入れている。
+
+# 実装
+1_1_forward_propagation_after.ipynbより
+
+![スクリーンショット 2021-11-03 20 38 41](https://user-images.githubusercontent.com/85814165/140053746-f846b669-ca6d-40bc-9cc8-9c147be44a44.png)
