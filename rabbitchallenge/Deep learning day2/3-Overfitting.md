@@ -46,6 +46,7 @@ np.sum(np.abs(network.params["W"+str(idx)]))
 ![gif latex-14](https://user-images.githubusercontent.com/85814165/140589977-026c7795-fb25-4e36-8957-d3e8f838d2a4.gif)
 
 weight_decay += weight_decay_lambda * np.sum(np.abs(network.params["W"+str(idx)]))
+
 loss = network.loss(x_batch, d_batch) + weight_decay
 
 ## ドロップアウト
