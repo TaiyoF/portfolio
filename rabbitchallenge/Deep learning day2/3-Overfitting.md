@@ -50,12 +50,14 @@ weight_decay += weight_decay_lambda * np.sum(np.abs(network.params["W"+str(idx)]
 loss = network.loss(x_batch, d_batch) + weight_decay
 
 ## ドロップアウト
+過学習の課題はノード数が多い、そのためランダムにノードを削除して学習させる。＝ドロップアウトという。
+メリット：データ量を変化させずに、異なるモデルを学習させていることになる。
 
 # 確認テスト
 Q.L1正則化を表しているグラフはどちらか答えよ。
 
 ![スクリーンショット 2021-11-06 9 10 22](https://user-images.githubusercontent.com/85814165/140590919-ec2bddaf-686f-4039-ae2c-9e75771c775f.png)
 
-
-Q.サイズ6x6の入力画像をサイズ2x2のフィルタで畳み込んだ時の出力画像のサイズを答えよ。なおストライドとパディングは1とする。
+# 実装
+2-5_overfiting
 
