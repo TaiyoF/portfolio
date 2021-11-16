@@ -93,3 +93,15 @@ A2.過学習を抑えられる。
 ![スクリーンショット 2021-11-17 5 46 12](https://user-images.githubusercontent.com/85814165/142063182-41ee10f0-41d1-408a-a469-478137daafa1.png)
 ![スクリーンショット 2021-11-17 5 46 25](https://user-images.githubusercontent.com/85814165/142063189-e3a98340-1ec1-493e-8a73-98ce507ce58e.png)
 ![スクリーンショット 2021-11-17 5 46 39](https://user-images.githubusercontent.com/85814165/142063193-05c3df54-e5c1-4e2c-8b2a-aaba77ef62a4.png)
+
+1と2の比較
+
+sigmoid Xvaier normalizationなし
+
+![スクリーンショット 2021-11-17 5 48 58](https://user-images.githubusercontent.com/85814165/142063411-212c7ddb-c26c-4fbf-b84a-4d4db44b25af.png)
+
+sigmoid Xvaier normalization あり
+
+![スクリーンショット 2021-11-17 5 50 27](https://user-images.githubusercontent.com/85814165/142063592-c545d408-d02f-4a35-8887-65c2cf1fada9.png)
+
+normalizationをかけることで学習が向上することがわかる。
