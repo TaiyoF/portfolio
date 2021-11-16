@@ -65,3 +65,31 @@ Q.一般的に考えられるバッチ正規化の効果を2点あげよ。
 
 A1.中間層の重みの更新が安定化する、学習スピードが向上する。
 A2.過学習を抑えられる。
+
+# 実装
+1.2_2_2_vanishing_gradient_modified.ipynb
+
+![スクリーンショット 2021-11-16 21 54 59](https://user-images.githubusercontent.com/85814165/141989507-c45b67a5-2bfc-4501-8c31-e8962f04a4c9.png)
+![スクリーンショット 2021-11-16 21 55 24](https://user-images.githubusercontent.com/85814165/141989523-cd06d4cb-4cac-430e-9f68-5e7fa0d33bdf.png)
+![スクリーンショット 2021-11-16 21 55 34](https://user-images.githubusercontent.com/85814165/141989527-8b80021f-7317-4937-afda-238c790eb8b6.png)
+![スクリーンショット 2021-11-16 21 55 47](https://user-images.githubusercontent.com/85814165/141989538-e3ee1f75-f503-42d0-a4d1-d223226ce62d.png)
+![スクリーンショット 2021-11-16 21 55 56](https://user-images.githubusercontent.com/85814165/141989548-9079d0d7-203c-44a8-9da9-5cddb03c7926.png)
+![スクリーンショット 2021-11-16 21 56 06](https://user-images.githubusercontent.com/85814165/141989556-fddb7a22-6c47-4690-9e9d-7c3beb805f32.png)
+![スクリーンショット 2021-11-16 21 56 22](https://user-images.githubusercontent.com/85814165/141989573-d97f078d-7d39-4b7d-9f33-b358e5172896.png)
+![スクリーンショット 2021-11-16 21 56 38](https://user-images.githubusercontent.com/85814165/141989579-3d870db2-daaf-48a0-988c-984bba8ec5ae.png)
+![スクリーンショット 2021-11-16 21 56 52](https://user-images.githubusercontent.com/85814165/141989586-c18461b2-ff65-4767-bb80-aa79a1b7090a.png)
+![スクリーンショット 2021-11-16 21 57 00](https://user-images.githubusercontent.com/85814165/141989593-7721673f-e35d-46cb-9fb3-6214fa490be1.png)
+![スクリーンショット 2021-11-16 21 57 16](https://user-images.githubusercontent.com/85814165/141989607-50cfbf51-b03c-4d63-b970-4ffc17d19f5b.png)
+![スクリーンショット 2021-11-16 21 57 24](https://user-images.githubusercontent.com/85814165/141989617-5746068d-5608-4bf8-b2e5-c76e70aff7b1.png)
+![スクリーンショット 2021-11-16 21 57 37](https://user-images.githubusercontent.com/85814165/141989624-9d0e279c-19d1-453c-90a3-23f1df204751.png)
+![スクリーンショット 2021-11-16 21 57 47](https://user-images.githubusercontent.com/85814165/141989637-d1012ea6-11f8-41e3-8a0f-df29c8905293.png)
+![スクリーンショット 2021-11-16 21 57 55](https://user-images.githubusercontent.com/85814165/141989650-a3107499-53e0-47e2-b487-be002b17bf11.png)
+![スクリーンショット 2021-11-16 21 58 03](https://user-images.githubusercontent.com/85814165/141989662-7784842b-8ad5-47a8-993b-4db1b7e2492a.png)
+![スクリーンショット 2021-11-16 21 58 11](https://user-images.githubusercontent.com/85814165/141989671-3029b21e-c37d-4e82-b37e-6b4ab63d6fcb.png)
+
+2.2_3_batch_normalization.ipynb
+
+![スクリーンショット 2021-11-17 5 45 59](https://user-images.githubusercontent.com/85814165/142063171-8a186683-d92f-4148-8e4e-31af2ab162e9.png)
+![スクリーンショット 2021-11-17 5 46 12](https://user-images.githubusercontent.com/85814165/142063182-41ee10f0-41d1-408a-a469-478137daafa1.png)
+![スクリーンショット 2021-11-17 5 46 25](https://user-images.githubusercontent.com/85814165/142063189-e3a98340-1ec1-493e-8a73-98ce507ce58e.png)
+![スクリーンショット 2021-11-17 5 46 39](https://user-images.githubusercontent.com/85814165/142063193-05c3df54-e5c1-4e2c-8b2a-aaba77ef62a4.png)
