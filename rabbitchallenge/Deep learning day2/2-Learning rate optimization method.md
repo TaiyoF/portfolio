@@ -69,3 +69,12 @@ RMSProp：局所的最適解にならず、大域的最適解になる。ハイ�
 # 実装
 2_4_optimizer.ipynbより
 
+![スクリーンショット 2021-11-22 20 21 54](https://user-images.githubusercontent.com/85814165/142853333-4994406b-733a-44aa-801a-ef9f75e93411.png)
+![スクリーンショット 2021-11-22 20 22 37](https://user-images.githubusercontent.com/85814165/142853345-5f6988e9-bdc9-41b2-aa99-d4f7d700955f.png)
+![スクリーンショット 2021-11-22 20 22 55](https://user-images.githubusercontent.com/85814165/142853358-4803845b-38b8-45d8-babb-45b7ab5f02c8.png)
+![スクリーンショット 2021-11-22 20 23 24](https://user-images.githubusercontent.com/85814165/142853370-477780d1-a6c0-48dd-98d2-0718cfb26d00.png)
+![スクリーンショット 2021-11-22 20 23 35](https://user-images.githubusercontent.com/85814165/142853388-7ec97198-770c-4a09-9841-bbc8f34c0b86.png)
+![スクリーンショット 2021-11-22 20 23 50](https://user-images.githubusercontent.com/85814165/142853398-4ca52fa8-5046-4108-a042-4fa53a93b011.png)
+![スクリーンショット 2021-11-22 20 24 01](https://user-images.githubusercontent.com/85814165/142853407-e7e073be-cf83-41bb-a3fa-8a84de2295f3.png)
+![スクリーンショット 2021-11-22 20 24 12](https://user-images.githubusercontent.com/85814165/142853418-96d0c4c8-464c-4469-920d-ed1443931cc7.png)
+![スクリーンショット 2021-11-22 20 24 22](https://user-images.githubusercontent.com/85814165/142853425-6af14487-9b60-4044-85be-3a29a7673798.png)
