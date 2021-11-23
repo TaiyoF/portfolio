@@ -59,5 +59,18 @@ Q.L1正則化を表しているグラフはどちらか答えよ。
 ![スクリーンショット 2021-11-06 9 10 22](https://user-images.githubusercontent.com/85814165/140590919-ec2bddaf-686f-4039-ae2c-9e75771c775f.png)
 
 # 実装
-2-5_overfiting
+2-5_overfiting.ipynb
+
+![スクリーンショット 2021-11-23 9 49 12](https://user-images.githubusercontent.com/85814165/142964367-2cac706f-6b2d-4b18-acde-d299d716a67f.png)
+![スクリーンショット 2021-11-23 9 49 24](https://user-images.githubusercontent.com/85814165/142964374-1bcc4829-32d9-425b-bc73-e427c3a06d8a.png)
+![スクリーンショット 2021-11-23 9 49 34](https://user-images.githubusercontent.com/85814165/142964385-c8f2b9fc-a3ae-4b67-85b9-9a5f769dc5c7.png)
+![スクリーンショット 2021-11-23 9 49 48](https://user-images.githubusercontent.com/85814165/142964412-8d440223-98ea-491f-a163-26df309e58d1.png)
+![スクリーンショット 2021-11-23 9 50 25](https://user-images.githubusercontent.com/85814165/142964419-c1db5876-666f-48a8-b773-add11e399bef.png)
+![スクリーンショット 2021-11-23 9 50 36](https://user-images.githubusercontent.com/85814165/142964427-430c0b59-4614-416b-b1d5-4fa5452a1464.png)
+![スクリーンショット 2021-11-23 11 55 08](https://user-images.githubusercontent.com/85814165/142964825-31df14b2-b56a-47d4-b721-9bba988d052f.png)
+![スクリーンショット 2021-11-23 9 51 14](https://user-images.githubusercontent.com/85814165/142964473-ea23bcd5-eb8f-471d-b421-7b6e2081a186.png)
+![スクリーンショット 2021-11-23 9 51 29](https://user-images.githubusercontent.com/85814165/142964478-44a9fde1-8ad0-436d-9695-f7c946fed8ed.png)
+![スクリーンショット 2021-11-23 9 51 39](https://user-images.githubusercontent.com/85814165/142964483-e2cbe8ab-1cea-4738-acb2-294be732f947.png)
+![スクリーンショット 2021-11-23 9 51 57](https://user-images.githubusercontent.com/85814165/142964487-e82fbf5d-d9b9-4d5f-b8fb-9b92cf637352.png)
+![スクリーンショット 2021-11-23 11 53 43](https://user-images.githubusercontent.com/85814165/142964728-b7e7508c-9e77-40a2-b216-f2fbb73d011e.png)
 
