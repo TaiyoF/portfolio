@@ -78,6 +78,15 @@ Q.サイズ5x5の入力画像を、サイズ3x3のフィルタで畳み込んだ
 A.3x3の出力サイズ
 
 # 実装
-2-6
+2-6_simple_convolution_network.ipynbより
+
+![スクリーンショット 2021-11-23 15 59 37](https://user-images.githubusercontent.com/85814165/142983121-e42ffcee-bdea-41fe-9534-e9b83376d2cd.png)
+![スクリーンショット 2021-11-23 15 59 52](https://user-images.githubusercontent.com/85814165/142983122-392c6282-b7f9-4bcf-b4e5-32aeb8490fbc.png)
+![スクリーンショット 2021-11-23 16 00 04](https://user-images.githubusercontent.com/85814165/142983124-d0376d39-cee7-4b3b-9e6a-012ccadb2d1a.png)
+![スクリーンショット 2021-11-23 16 00 28](https://user-images.githubusercontent.com/85814165/142983127-8c9960ec-9276-4c1e-9cb0-71b6c745ec2f.png)
+![スクリーンショット 2021-11-23 16 00 39](https://user-images.githubusercontent.com/85814165/142983129-5b9620cb-dd14-4f6f-816a-3f4faa9ee4a5.png)
+![スクリーンショット 2021-11-23 16 00 50](https://user-images.githubusercontent.com/85814165/142983130-6d49d242-978c-43a9-b0ff-30b09cf323b7.png)
+![スクリーンショット 2021-11-23 16 09 11](https://user-images.githubusercontent.com/85814165/142983210-ddb205e0-7838-4fdd-857a-9f071957639c.png)
+
 
 
