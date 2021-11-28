@@ -72,7 +72,7 @@ Q.下図のy1をx,z0,w_in,w,w_outを用いて数式で表せ。
 
 A.2 W.dot(np.concatencate([left, right]))
 
-![Uploading スクリーンショット 2021-11-28 15.45.22.png…]()
+![スクリーンショット 2021-11-28 15 45 22](https://user-images.githubusercontent.com/85814165/143732632-b12c0d78-0f5e-4117-9f78-624d6dd045b7.png)
 
 A.2 delta_t.dot(U)
 
