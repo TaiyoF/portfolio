@@ -79,5 +79,8 @@ A.2 delta_t.dot(U)
 # 実装
 3_1_simple_RNN.ipynb
 
+![スクリーンショット 2021-11-30 3 40 57](https://user-images.githubusercontent.com/85814165/143924532-ca59a7e2-29ea-45e6-a893-ffe2f198f561.png)
+![スクリーンショット 2021-11-30 3 41 20](https://user-images.githubusercontent.com/85814165/143924537-0a42c2fb-42c3-4cc9-a874-66b6b18aac63.png)
+![スクリーンショット 2021-11-30 3 41 32](https://user-images.githubusercontent.com/85814165/143924548-cc6d746f-40d9-42b5-9b15-bee48d485ca0.png)
 
 
