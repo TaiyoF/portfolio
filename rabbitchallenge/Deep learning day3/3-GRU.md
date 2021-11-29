@@ -34,3 +34,10 @@ A.4 (1-z)*h +z*h_bar
 # 実装
 predict_word.ipynb
 
+![スクリーンショット 2021-11-30 5 30 54](https://user-images.githubusercontent.com/85814165/143939039-f3da322f-1527-4733-9926-1fcf510f5233.png)
+![スクリーンショット 2021-11-30 5 32 05](https://user-images.githubusercontent.com/85814165/143938957-3dceecb4-7202-468f-8c92-e643cfb40ea6.png)
+![スクリーンショット 2021-11-30 5 32 24](https://user-images.githubusercontent.com/85814165/143938966-44cfe6ac-179b-4854-8d58-f0dd65991bd5.png)
+![スクリーンショット 2021-11-30 5 32 34](https://user-images.githubusercontent.com/85814165/143938973-6e8612f1-4475-42e1-b4ca-7b13ceecb765.png)
+![スクリーンショット 2021-11-30 5 33 39](https://user-images.githubusercontent.com/85814165/143938978-96502db5-d71b-4ab7-be0c-ddcd16487161.png)
+![スクリーンショット 2021-11-30 5 36 07](https://user-images.githubusercontent.com/85814165/143939237-7cb6e1c2-95f8-4824-ad18-9e8868c246e6.png)
+
