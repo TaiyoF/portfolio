@@ -108,6 +108,11 @@ NNでは誤差を小さくするが、強化学習では機体収益を最大化
 
 ## ![gif latex-9](https://user-images.githubusercontent.com/85814165/144552336-2bc32784-5931-4eb6-973b-6bf9f45fe375.gif)の定義方法
 
-定義方法
+定義方法（平均報酬・割引報酬わ）
+
+上記の定義に対応して、行動価値関数Q(s,a)の定義をおこな。
+
+![gif latex-10](https://user-images.githubusercontent.com/85814165/144552633-d7e5ffe8-a888-4adb-a5b4-ca167b1ac698.gif)
+
 
 
