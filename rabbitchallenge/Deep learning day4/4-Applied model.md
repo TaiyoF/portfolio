@@ -30,6 +30,18 @@ DenseNetで使われるDenseBlockでは、成長率（Growth Rate）というハ
 
 # 4-3 Layer正規化/Instance正規化
 
+- Batch Norm ミニバッチに含まれるSampleの同一チャンネルが同一分布に従うよう正規化（バッチサイズに影響を受ける）
+- Layer Norm それぞれのSampleの全てのPixelsが同一分布に従うよう正規化
+- Instance Norm さらにchannelも同一分布に従うよう正規化
 
+![スクリーンショット 2021-12-11 6 09 36](https://user-images.githubusercontent.com/85814165/145641661-fecbeac4-6b83-4929-af2e-13923ecfd185.png)
+
+Layer Normは入力データや重み行列に対して、入力データのスケールに関してロバスト、重み行列のスケールやシフトに関してロバストである。
+
+Instance Normは、コンストラストの正規化に寄与、画像スタイルの転送やテクスチャ合成タスクに利用される。
 
 # 4-4 Wavenet
+
+音声生成モデル。Pixel CNNを音声に応用したもの。
+
+Dilated causal convolutionで、結合確率を効率的に学習できる用意なっている。これを使う利点は、パラメータ数に対する受容野が広い。
