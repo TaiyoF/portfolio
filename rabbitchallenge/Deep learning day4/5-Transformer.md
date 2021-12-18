@@ -67,6 +67,3 @@ Decoderのoutput側に正解を当てれば教師あり学習がEnd2endで行え
 ![スクリーンショット 2021-12-18 21 23 48](https://user-images.githubusercontent.com/85814165/146640927-22d2a0b1-a188-41dc-8f7e-eb5d7c2748e3.png)
 ![スクリーンショット 2021-12-18 21 24 00](https://user-images.githubusercontent.com/85814165/146640928-50a6ef35-fe81-4c16-ae82-03f06873283b.png)
 
-
-# 演習 transformer
-
